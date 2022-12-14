@@ -12,4 +12,4 @@ JUPYTER
 # Langage
 PYTHON
 # Bibliothéque 
-NLTK | 
+NLTK | pandas | sklearn | spacy | yake
